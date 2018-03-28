@@ -26,7 +26,7 @@ The dataset represents imbalanced data where the records of label apply = 1 were
 
 This leads to high accuracy but low f1 score.
 
-Model building and testing was first done on the first seven columns, and then the last two columns were added to aboserve any changes to predictions.
+Model building and testing was first done on the first seven columns, and then the last two columns were added to observe any changes to predictions.
 
 Further, imblearn package was explored to deal with imbalanced dataset [ ... in progress ]
 
